@@ -16,6 +16,6 @@ https://youtu.be/hKUGBdbz7zE
 ## Getting Started
 To run this project locally or explore its capabilities, follow these steps:
 1. **Clone the Repository**: Clone this project to your local machine to get started.
-2. **Set Up Your Environment**: Ensure you have Python installed and create a virtual environment. Install the project dependencies using `pip install -r requirements.txt`.
+2. **Set Up Your Environment**: Ensure you have Python installed and create a virtual environment.
 3. **Download the Model**: Access the pre-trained model from [[Cloud Storage URL](https://drive.google.com/file/d/1uNSn6wsfvRclLOeBya8_3h24CzD-EemH/view?usp=sharing)] and place it in the designated directory within the project.
 4. **Launch the Web App**: Run the Streamlit app using `streamlit run app.py` and navigate to the provided local URL to start classifying tennis court images.
